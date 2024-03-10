@@ -20,3 +20,6 @@
 ![alt text](https://raw.githubusercontent.com/neonyazilim/github-pages-domain-yonlendirme/main/5.png)
 # 6
 ![alt text](https://raw.githubusercontent.com/neonyazilim/github-pages-domain-yonlendirme/main/6.png)
+## Doğrulayalım
+# 7
+![alt text](https://raw.githubusercontent.com/neonyazilim/github-pages-domain-yonlendirme/main/7.png)

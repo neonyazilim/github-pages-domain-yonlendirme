@@ -1,4 +1,4 @@
-# İsim tescilden Github Pages'e Domain (Alan Adı) Yönlendirme
+# İsim Tescilden Github Pages'e Domain (Alan Adı) Yönlendirme
 İsimtescil tarzı sitelerden nasıl sadece domain alınıp, bu domain github pages ile kullanılır. Siteye girdiğinizde yeni aldığınız domain adınız gözükecek fakat host github pages olacağı için domain ücreti dışında yıllık bir ücret ödemeyeceksiniz. HTTPS sertifikası da olacak. Resimdeki adımlar dışında bir şey yapmanıza gerek yok! (SSL sertifikasınıda github otomatik atıyor!)
 
 # 1

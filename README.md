@@ -9,9 +9,9 @@
 185.199.111.153
 ```
 # 1
-![alt text](https://raw.githubusercontent.com/neonyazilim/github-pages-domain-yonlendirme/main/1.png)
-# 2
 ![alt text](https://raw.githubusercontent.com/neonyazilim/github-pages-domain-yonlendirme/main/2.png)
+# 2
+![alt text](https://raw.githubusercontent.com/neonyazilim/github-pages-domain-yonlendirme/main/1.png)
 # 3
 ![alt text](https://raw.githubusercontent.com/neonyazilim/github-pages-domain-yonlendirme/main/3.png)
 # 4
